@@ -1,0 +1,38 @@
+html {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(0, 0, 0);
+}
+
+h1,
+h2 {
+    font-weight: bold;
+}
+
+#rowTable {
+    text-align: left;
+}
+
+#hp {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.container {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.table {
+    text-align: center;
+}
